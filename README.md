@@ -1,4 +1,4 @@
-### Hi, I'm Yusuf Nurullayev <img src="https://media.giphy.com/media/hyRJCLFzcasrR4ia7z/giphy.gif" width= "27px">
+### Hi, I'm Yusuf Nurullayev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width= "27px">
 
 <!--
 **Yusufdevv/Yusufdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
