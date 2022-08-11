@@ -5,7 +5,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png"> </code>
+<code><img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" height="27"> </code>
 
 <!--
 **Yusufdevv/Yusufdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
